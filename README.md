@@ -28,7 +28,10 @@ muito amor e carinho mantedo a tradição da sua família
  - Endereço (longradouro, bairro, estado, cep, cidade)
  - Texto da Mensagem
 
+## Modelagem conceitual
+![](FREE FIRE.png)
  
+
 
 
 
