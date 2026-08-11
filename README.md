@@ -7,17 +7,16 @@ A confeitaria sempre doce deseja expandir sua atuação
 criando um site para vender seus produtos, estes são feitos com 
 muito amor e carinho mantedo a tradição da sua família
 
-
 ## 2.Requisitos Funcional (RF)
 
-**RF**: O sistema deve gerenciar o cadastro de seus clientes, as informações úteis que foram levantadas são:
+**RN01**: O sistema deve gerenciar o cadastro de seus clientes, as informações úteis que foram levantadas são:
 
  - Nome Completo
  - Telefone
  - E-mail
  - Endereço
  
- **RF**: O sistema deve permitir
+ **RN02**: O sistema deve permitir
  que o cliente envie uma mensagem
   com as informações do seu pedido, 
   a mensagem será enviada via 
@@ -26,7 +25,13 @@ muito amor e carinho mantedo a tradição da sua família
  - Nome
  - E-mail
  - Telefone
- - Endereço
+ - Endereço (longradouro, bairro, estado, cep, cidade)
  - Texto da Mensagem
+
+ 
+
+
+
+
 
  
